@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Khetan</h1>
 <h3 align="center">A software developer from India</h3>
+<h3 align="center">Note for Recruiters: Most of my projects are hosted in private repositories. If you'd like to review my work, feel free to reach out via <a href="mailto:shivkhetan18@gmail.com">Email</a>, and I’ll be happy to provide access.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivk123&label=Profile%20views&color=0e75b6&style=flat" alt="shivk123" /> </p>
 
